@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Mithras and currently studying software engeering at Codam (42 network). Prior to Codam I studied theoretical psychology, cognitive neuroscience, and artificial intelligence. Years of work-experience in the video-game events industry allowed to me meet many talented people passionate about software engeering, ultimately lighting the spark that I decided to become a software engineer myself.
+I'm Mithras and currently studying software engeering at Codam (42 network). Prior to Codam I studied theoretical psychology (BSc), cognitive neuroscience (MSc), and artificial intelligence (MSc). Years of work-experience in the video-game events industry allowed to me meet many talented people passionate about software engeering, ultimately lighting the spark that I decided to become a software engineer myself.
 
 <!--
 **mithraskuipers/mithraskuipers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
