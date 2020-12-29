@@ -1,4 +1,6 @@
-### Hi there 👋
+### Yo 👋
+
+I'm Mithras and currently studying software engeering at Codam (42 network). Prior to Codam I studied theoretical psychology, cognitive neuroscience, and artificial intelligence.
 
 <!--
 **mithraskuipers/mithraskuipers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
