@@ -1,4 +1,4 @@
-### Yo 👋
+### Hi 👋
 
 I'm Mithras and currently studying software engeering at Codam (42 network). Prior to Codam I studied theoretical psychology, cognitive neuroscience, and artificial intelligence.
 
