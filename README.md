@@ -1,10 +1,8 @@
 ### 👋
 
-Hi there! My name is Mithras and I'm a software engineering student at 42 Network (Codam) with a strong academic background in artificial intelligence and cognitive neuroscience. Evident from my educational background, my interests lie in conducting scientific research and working on technological developments.
+Hi there! My name is Mithras and I'm a software engineering student at 42 Network (Codam) with a strong academic background in artificial intelligence and cognitive neuroscience. Evident from my educational background, my interests lie in conducting scientific research and working on technological developments. Years of work-experience in the video-game events industry allowed to me meet hundreds of talented game engineers, ultimately lighting the spark that I decided to become a software engineer myself. 
 
 🔭 I'm currently working in R&D on a state-of-the-art AI and computer vision solution to improve recruitment processes. Specifically, psychophysiological biometrics to help recruiters make better pre-selection of candidates based on soft skills.
-
-⚡ Years of work-experience in the video-game events industry allowed to me meet hundreds of talented game engineers, ultimately lighting the spark that I decided to become a software engineer myself. 
 
 <a href="mailto:mithraskuipers@gmail.com"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
