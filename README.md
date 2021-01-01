@@ -4,7 +4,7 @@ Currently, I work in R&D on a state-of-the-art commercial AI and computer vision
 
 When I'm not working or studying, I read filosophy or hit the gym :godmode:
 
-<a href="mailto:mithraskuipers@gmail.com"><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mithraskuipers/"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://discordapp.com/users/MithrasX#5968/"><img align=center src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /><a/>
+<a href="mailto:mithraskuipers@gmail.com"><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mithraskuipers/"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!-- [![Logo](https://raw.githubusercontent.com/mithraskuipers/mithraskuipers/main/readme_images/codam_banner.png)](https://github.com/mithraskuipers)>
 
