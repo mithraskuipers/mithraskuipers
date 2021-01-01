@@ -2,6 +2,8 @@ Hi there 👋! My name is Mithras and I'm a software engineering student at 42 N
 
 Currently, I work in R&D on a state-of-the-art commercial AI and computer vision solution to improve recruitment processes. Specifically, psychophysiological biometrics to help recruiters make better pre-selection of candidates based on soft skills.
 
+When I'm not working or studying, I read filosophy or hit the gym :muscle:.
+
 <a href="mailto:mithraskuipers@gmail.com"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 <!-- [![Logo](https://raw.githubusercontent.com/mithraskuipers/mithraskuipers/main/readme_images/codam_banner.png)](https://github.com/mithraskuipers)>
