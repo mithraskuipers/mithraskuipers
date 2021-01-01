@@ -6,7 +6,8 @@ When I'm not working or studying, I read filosophy or hit the gym :godmode:
 
 Wanna chat? Please reach out!
 
-<a href="mailto:mithraskuipers@gmail.com><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mithraskuipers@gmail.com"><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 <!-- [![Logo](https://raw.githubusercontent.com/mithraskuipers/mithraskuipers/main/readme_images/codam_banner.png)](https://github.com/mithraskuipers)>
 
 <!--
