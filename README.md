@@ -4,6 +4,8 @@ Currently, I work in R&D on a computer vision solution to improve recruitment pr
 
 :godmode:
 
+Want to talk? Feel free to reach out to me.
+
 <a href="mailto:mithraskuipers@gmail.com"><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mithraskuipers/"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!-- [![Logo](https://raw.githubusercontent.com/mithraskuipers/mithraskuipers/main/readme_images/codam_banner.png)](https://github.com/mithraskuipers)>
