@@ -2,8 +2,6 @@ Hi there 👋! My name is Mithras and I'm a software engineering student at 42 N
 
 Currently, I work in R&D on a computer vision solution to improve recruitment processes. Specifically, I use psychophysiological biometrics extracted from video-footage to help recruiters make better pre-selection of job candidates.
 
-:godmode:
-
 Want to talk? Feel free to reach out.
 
 <a href="mailto:mithraskuipers@gmail.com"><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mithraskuipers/"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
