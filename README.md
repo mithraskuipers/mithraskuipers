@@ -1,10 +1,10 @@
-Hi there 👋! My name is Mithras and I'm a software engineering student at 42 Network (Codam). Evident from my academic background in artificial intelligence (AI), cognitive neuroscience, and theoretical and experimental psychology, my interests lie in conducting scientific research and working on technological developments. Years of work-experience in the video-game events industry (Nintendo) as team captain allowed me to me meet hundreds of talented game engineers, ultimately lighting the spark that I decided to become a software engineer myself. 
+Hi there 👋! My name is Mithras and I'm a software engineering student at 42 Network (Codam). Evident from my academic background in artificial intelligence (AI), data science, cognitive neuroscience, and theoretical and experimental psychology, my interests lie in conducting scientific research and working on technological developments. Years of work-experience in the video-game events industry (Nintendo) as team captain allowed me to me meet hundreds of talented game engineers, ultimately lighting the spark that I decided to become a software engineer myself. 
 
 Currently, I work in R&D on a computer vision solution to improve recruitment processes. Specifically, I use psychophysiological biometrics extracted from video-footage to help recruiters make better pre-selection of job candidates.
 
 :godmode:
 
-Want to talk? Feel free to reach out to me.
+Want to talk? Feel free to reach out.
 
 <a href="mailto:mithraskuipers@gmail.com"><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mithraskuipers/"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
