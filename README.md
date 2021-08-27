@@ -1,6 +1,6 @@
 My name is Mithras and I'm a software engineering student at [42 Network](https://www.42.us.org/program/the-42-program) in The Netherlands. Evident from my background in cognitive neuroscience, AI, and theoretical and experimental psychology, my interests lie in conducting scientific research and working on technological developments. Years of work-experience for [Nintendo](https://www.nintendo.nl) as team captain allowed me to me meet hundreds of talented game engineers, ultimately lighting the spark that I decided to become a fully fledged software engineer myself :zap:.
 
-Currently, I work in the IT industry as data scientist and functional designer on a computer vision solution to improve recruitment processes. Specifically, I use psychophysiological biometrics extracted from video-footage to help recruiters make better pre-selection of job candidates.
+<!--- Currently, I work in the IT industry as data scientist and functional designer on a computer vision solution to improve recruitment processes. Specifically, I use psychophysiological biometrics extracted from video-footage to help recruiters make better pre-selection of job candidates. -->
 
 Feel free to reach out 📫✨
 
