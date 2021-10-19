@@ -8,8 +8,6 @@ Feel free to reach out 📫✨
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mithraskuipers)
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=mikuiper)](https://profile.intra.42.fr/users/mikuiper)
-
 <!-- [![Logo](https://raw.githubusercontent.com/mithraskuipers/mithraskuipers/main/readme_images/codam_banner.png)](https://github.com/mithraskuipers)>
 
 <!--
