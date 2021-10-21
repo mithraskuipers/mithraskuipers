@@ -12,6 +12,8 @@ Feel free to reach out 📫✨
 
 [![mikuiper's 42 stats](https://badge42.herokuapp.com/api/stats/mikuiper?darkmode=true&privacyEmail=true)](https://github.com/mithraskuipers/mithraskuipers)
 
+[![mikuiper's 42 stats](https://badge42.herokuapp.com/api/stats/mikuiper?darkmode=false&privacyEmail=true)](https://github.com/mithraskuipers/mithraskuipers)
+
 
 <!-- [![Logo](https://raw.githubusercontent.com/mithraskuipers/mithraskuipers/main/readme_images/codam_banner.png)](https://github.com/mithraskuipers)>
 
