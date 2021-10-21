@@ -8,7 +8,7 @@ Feel free to reach out 📫✨
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mithraskuipers)
 
-[![mikuiper's 42 stats](https://badge42.herokuapp.com/api/stats/mikuiper?darkmode=true&cursus=C%20Piscine)](https://github.com/mithraskuipers/mithraskuipers)
+<!--- [![mikuiper's 42 stats](https://badge42.herokuapp.com/api/stats/mikuiper?darkmode=true&cursus=C%20Piscine)](https://github.com/mithraskuipers/mithraskuipers) -->
 
 [![mikuiper's 42 stats](https://badge42.herokuapp.com/api/stats/mikuiper?privacyEmail=true)](https://github.com/mithraskuipers/mithraskuipers)
 
