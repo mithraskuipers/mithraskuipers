@@ -2,7 +2,7 @@ My name is Mithras and I'm a software engineering student at [42 Network](https:
 
 Current personal projects:  
 * Implement updated enemy AI in the [Brutal Doom](https://youtu.be/oSzYliSASKc) classic Doom mod.
-* Implement true simultaneous co-op mode for Donkey Kong Country (1/2/3). 
+* Implement true simultaneous co-op mode for [Donkey Kong Country 2](https://youtu.be/qXknTTEjLwQ).
 
 <!--- Currently, I work in the IT industry as data scientist and functional designer on a computer vision solution to improve recruitment processes. Specifically, I use psychophysiological biometrics extracted from video-footage to help recruiters make better pre-selection of job candidates. -->
 
