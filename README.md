@@ -18,11 +18,11 @@ Feel free to reach out 📫
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mithraskuipers)
 
-<!--- [![mikuiper's 42 stats](https://badge42.herokuapp.com/api/stats/mikuiper?darkmode=true&cursus=C%20Piscine)](https://github.com/mithraskuipers/mithraskuipers) -->
+<!---[![mikuiper's 42 stats](https://badge42.herokuapp.com/api/stats/mikuiper?darkmode=true&cursus=C%20Piscine)](https://github.com/mithraskuipers/mithraskuipers) -->
 
-<!--- [![mikuiper's 42 stats](https://badge42.herokuapp.com/api/stats/mikuiper?darkmode=true&privacyEmail=true)](https://github.com/mithraskuipers/mithraskuipers) -->
+<!---[![mikuiper's 42 stats](https://badge42.herokuapp.com/api/stats/mikuiper?darkmode=true&privacyEmail=true)](https://github.com/mithraskuipers/mithraskuipers) -->
 
-[![mikuiper's 42 stats](https://badge42.vercel.app/api/v2/cl483ajsd008309l6suq9l256/stats?cursusId=21&coalitionId=58)](https://github.com/mithraskuipers/)
+<!---[![mikuiper's 42 stats](https://badge42.vercel.app/api/v2/cl483ajsd008309l6suq9l256/stats?cursusId=21&coalitionId=58)](https://github.com/mithraskuipers/)--->
 
 <!-- [![Logo](https://raw.githubusercontent.com/mithraskuipers/mithraskuipers/main/readme_images/codam_banner.png)](https://github.com/mithraskuipers)>
 
