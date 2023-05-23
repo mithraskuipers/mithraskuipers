@@ -1,4 +1,4 @@
-My name is Mithras and I'm a software engineering student at [42 Network](https://www.42.us.org/program/the-42-program) in the Netherlands. Evident from my background in artificial intelligence and experimental cognitive neuroscience, my interests lie in conducting scientific research and working on technological developments. Years of work-experience for [Nintendo](https://www.nintendo.nl) as team captain allowed me to me meet hundreds of talented software and gaming engineers, ultimately lighting the spark that I decided to become a fully fledged software engineer myself.
+I'm Mithras, a software engineering student at [42 Network](https://www.42.us.org/program/the-42-program) in the Netherlands. With a background in artificial intelligence and cognitive neuroscience, I'm passionate about scientific research and technological developments. My experience as a team captain for [Nintendo](https://www.nintendo.nl) exposed me to talented software and gaming engineers, inspiring me to pursue a career as a software engineer.
 
 <!---I am a hard-worker with an entrepreneurial mindset. In my free time I develop skills in blockchain technology.-->
 
