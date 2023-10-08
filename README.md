@@ -1,12 +1,4 @@
-I'm Mithras, a software engineering student at [42 Network](https://www.42.us.org/program/the-42-program) in the Netherlands. With a background in artificial intelligence and cognitive neuroscience, I'm passionate about scientific research and technological developments. My experience as a team captain for [Nintendo](https://www.nintendo.nl) exposed me to talented software and gaming engineers, inspiring me to pursue a career as a software engineer.
-
-<!---I am a hard-worker with an entrepreneurial mindset. In my free time I develop skills in blockchain technology.-->
-
-<!---Current personal projects:  
-* Implement updated enemy AI in the [Brutal Doom](https://youtu.be/oSzYliSASKc) classic Doom mod.
-* Implement true simultaneous co-op mode for [Donkey Kong Country 2](https://youtu.be/qXknTTEjLwQ).-->
-
-<!--- Currently, I work in the IT industry as data scientist and functional designer on a computer vision solution to improve recruitment processes. Specifically, I use psychophysiological biometrics extracted from video-footage to help recruiters make better pre-selection of job candidates. -->
+Hello, I'm Mithras, a software engineering enthusiast from 42 Network in the Netherlands. My expertise lies in artificial intelligence, cognitive neuroscience, and advanced software engineering practices. Proficient in Python, C, and C++, I specialize in algorithm design, data structures, and software architecture. Eager to collaborate on innovative tech projects. Feel free to connect and discuss anything tech-related—I'm always up for engaging technical discussions and collaborative ventures! 🖥️🚀
 
 Feel free to reach out 📫
 
