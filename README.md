@@ -1,4 +1,4 @@
-Hello, I'm Mithras, a software engineering enthusiast from 42 Network in the Netherlands. My expertise lies in artificial intelligence, cognitive neuroscience, and advanced software engineering practices. Proficient in Python, C, and C++, I specialize in algorithm design, data structures, and software architecture. Eager to collaborate on innovative tech projects. Feel free to connect and discuss anything tech-related—I'm always up for engaging technical discussions and collaborative ventures! 🖥️🚀
+Hello, I'm Mithras, a software engineering enthusiast from 42 Network in the Netherlands. My expertise lies in artificial intelligence, cognitive neuroscience, and advanced software engineering practices. Proficient in Python, C, and C++, I specialize in machine learning, DevOps, security, data structures, and software architecture. Eager to collaborate on innovative tech projects. Feel free to connect and discuss anything tech-related—I'm always up for engaging technical discussions and collaborative ventures! 🖥️🚀
 
 Feel free to reach out 📫
 
