@@ -1,6 +1,6 @@
 # Hi, I'm Mithras! 👋🖥️🚀
 
-I'm a software engineering enthusiast from 42 Network in the Netherlands, with expertise in artificial intelligence, cognitive neuroscience, and advanced software engineering practices. My skills include Python, C, and C++, specializing in machine learning, DevOps, security, data structures, and software architecture.
+I'm a software engineering enthusiast from 42 Network in the Netherlands, with expertise in artificial intelligence, cognitive neuroscience, and advanced low-level software engineering practices. My skills include Python, C, and C++, specializing in machine learning, DevOps, security, data structures, and software architecture.
 
 <a href="mailto:mithraskuipers@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mithraskuipers/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
