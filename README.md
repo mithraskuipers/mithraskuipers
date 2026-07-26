@@ -1,5 +1,80 @@
+
 # Hi, I'm Mithras! 👋🖥️🚀
 
-<a href="https://www.linkedin.com/in/mithraskuipers/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/mithraskuipers/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mithraskuipers&style=for-the-badge" alt="Profile Views" />
+</p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=mithraskuipers)
+## About Me
+
+I'm a software developer who enjoys building practical tools that solve real-world problems. Most of my projects are local-first, privacy-friendly applications focused on automation, media processing, networking, AI, Raspberry Pi, and developer utilities.
+
+Many of my projects run entirely on your own machine without requiring cloud services or external APIs.
+
+## Projects
+
+### 🤖 AI & Machine Learning
+
+| Repository | Description |
+|:-----------|:------------|
+| [Subtitler](https://github.com/mithraskuipers/Subtitler) | Batch-transcribe videos into subtitles using Whisper. |
+| [CodeOCR](https://github.com/mithraskuipers/CodeOCR) | OCR tool for extracting code from images. |
+| [ollama-docker-manager](https://github.com/mithraskuipers/ollama-docker-manager) | Terminal UI for managing Ollama Docker models. |
+| [MangaUpscaler](https://github.com/mithraskuipers/MangaUpscaler) | AI image upscaling for manga. |
+
+### 🎬 Media Tools
+
+| Repository | Description |
+|:-----------|:------------|
+| [EasyMask](https://github.com/mithraskuipers/EasyMask) | Convert MP4s into transparent GIFs. |
+| [PyImgStitcher](https://github.com/mithraskuipers/PyImgStitcher) | Merge scrolling screenshots. |
+| [PSImgStitcher](https://github.com/mithraskuipers/PSImgStitcher) | PowerShell image stitcher. |
+| [VideoReviewTool](https://github.com/mithraskuipers/VideoReviewTool) | Quickly review large video collections. |
+| [RetroTV](https://github.com/mithraskuipers/RetroTV) | Self-hosted TV channel simulator. |
+| [SoundRelay](https://github.com/mithraskuipers/SoundRelay) | Stream synchronized audio to phones. |
+
+### 🌐 Browser Applications
+
+| Repository | Description |
+|:-----------|:------------|
+| [DocCombiner](https://github.com/mithraskuipers/DocCombiner) | Combine PDFs, DOCX, TXT and Markdown. |
+| [DocSplitter](https://github.com/mithraskuipers/DocSplitter) | Split documents locally. |
+| [VideoInputMonitor](https://github.com/mithraskuipers/VideoInputMonitor) | Webcam preview and diagnostics. |
+| [raycasting](https://github.com/mithraskuipers/raycasting) | Interactive raycasting tutorial. |
+| [reinforcement_learning](https://github.com/mithraskuipers/reinforcement_learning) | Interactive RL tutorial. |
+
+### 🧩 Chrome Extensions
+
+| Repository | Description |
+|:-----------|:------------|
+| [SelectiveHistory](https://github.com/mithraskuipers/SelectiveHistory) | Automatically remove browsing history for selected sites. |
+| [IPInsight](https://github.com/mithraskuipers/IPInsight) | Display your current IP address. |
+
+### 🐍 Python
+
+| Repository | Description |
+|:-----------|:------------|
+| [PySecureFS](https://github.com/mithraskuipers/PySecureFS) | Secure local file server. |
+| [PiNetAP](https://github.com/mithraskuipers/PiNetAP) | Raspberry Pi access point manager. |
+| [tiktok-live-downloader](https://github.com/mithraskuipers/tiktok-live-downloader) | Automatically record TikTok livestreams. |
+| [python_datascience_tools](https://github.com/mithraskuipers/python_datascience_tools) | Data science utilities. |
+
+### 💙 PowerShell
+
+| Repository | Description |
+|:-----------|:------------|
+| [PSScreenshotTool](https://github.com/mithraskuipers/PSScreenshotTool) | Tray application for timed screenshots. |
+| [PSImgStitcher](https://github.com/mithraskuipers/PSImgStitcher) | Screenshot stitching utility. |
+| [EasyFT-win](https://github.com/mithraskuipers/EasyFT-win) | Windows file transfer utility. |
+
+### 🐧 Linux & Networking
+
+| Repository | Description |
+|:-----------|:------------|
+| [usb-wifi-diagnostics](https://github.com/mithraskuipers/usb-wifi-diagnostics) | USB Wi-Fi troubleshooting toolkit. |
+| [pi-gpio-lcd-toolkit](https://github.com/mithraskuipers/pi-gpio-lcd-toolkit) | Raspberry Pi LCD toolkit. |
+| [EasyFT](https://github.com/mithraskuipers/EasyFT) | Linux file transfer utility. |
+| [opnsense-multihop](https://github.com/mithraskuipers/opnsense-multihop) | OpenVPN multihop configuration. |
