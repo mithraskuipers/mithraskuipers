@@ -43,6 +43,10 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [DocCombiner](https://github.com/mithraskuipers/DocCombiner) | Combine PDFs, DOCX, TXT and Markdown. |
 | [DocSplitter](https://github.com/mithraskuipers/DocSplitter) | Split documents locally. |
 | [VideoInputMonitor](https://github.com/mithraskuipers/VideoInputMonitor) | Webcam preview and diagnostics. |
+
+### Educational
+| Repository | Description |
+|:-----------|:------------|
 | [raycasting](https://github.com/mithraskuipers/raycasting) | Interactive raycasting tutorial. |
 | [reinforcement_learning](https://github.com/mithraskuipers/reinforcement_learning) | Interactive RL tutorial. |
 
