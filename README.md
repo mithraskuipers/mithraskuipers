@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a software developer who enjoys building practical tools that solve real-world problems. Most of my projects are local-first, privacy-friendly applications focused on automation, media processing, networking, AI, Raspberry Pi, and developer utilities.
+I'm an Offensive Security Consultant with experience in software engineering and artificial intelligence. My projects range from penetration testing utilities and networking tools to AI-powered applications, desktop software, and browser-based utilities, with an emphasis on local-first, privacy-friendly design.
 
 Many of my projects run entirely on your own machine without requiring cloud services or external APIs.
 
