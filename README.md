@@ -24,6 +24,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [CodeOCR](https://github.com/mithraskuipers/CodeOCR) | OCR tool for extracting code from images. |
 | [ollama-docker-manager](https://github.com/mithraskuipers/ollama-docker-manager) | Terminal UI for managing Ollama Docker models. |
 | [MangaUpscaler](https://github.com/mithraskuipers/MangaUpscaler) | AI image upscaling for manga. |
+| [system-prompt-library](https://github.com/mithraskuipers/system-prompt-library) | Collection of system prompts for LLMs across various topics. |
 
 ### 🎬 Media Tools
 
@@ -44,11 +45,12 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [DocSplitter](https://github.com/mithraskuipers/DocSplitter) | Split documents locally. |
 | [VideoInputMonitor](https://github.com/mithraskuipers/VideoInputMonitor) | Webcam preview and diagnostics. |
 
-### Educational
+### 📚 Educational
 | Repository | Description |
 |:-----------|:------------|
 | [raycasting](https://github.com/mithraskuipers/raycasting) | Interactive raycasting tutorial. |
 | [reinforcement_learning](https://github.com/mithraskuipers/reinforcement_learning) | Interactive RL tutorial. |
+| [cobol-notes](https://github.com/mithraskuipers/cobol-notes) | COBOL programming notes, including security risks and SQL injection. |
 
 ### 🧩 Chrome Extensions
 
