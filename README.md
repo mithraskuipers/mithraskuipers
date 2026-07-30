@@ -83,4 +83,3 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [usb-wifi-diagnostics](https://github.com/mithraskuipers/usb-wifi-diagnostics) | USB Wi-Fi troubleshooting toolkit. |
 | [pi-gpio-lcd-toolkit](https://github.com/mithraskuipers/pi-gpio-lcd-toolkit) | Raspberry Pi LCD toolkit. |
 | [EasyFT](https://github.com/mithraskuipers/EasyFT) | Linux file transfer utility. |
-| [opnsense-multihop](https://github.com/mithraskuipers/opnsense-multihop) | OpenVPN multihop configuration. |
