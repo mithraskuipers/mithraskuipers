@@ -74,7 +74,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 |:-----------|:------------|
 | [PSScreenshotTool](https://github.com/mithraskuipers/PSScreenshotTool) | Tray application for timed screenshots. |
 | [PSImgStitcher](https://github.com/mithraskuipers/PSImgStitcher) | Screenshot stitching utility. |
-| [EasyFT-win](https://github.com/mithraskuipers/EasyFT-win) | Windows file transfer utility. |
+| [PSEasyFT](https://github.com/mithraskuipers/PSEasyFT) | Windows file transfer utility. |
 
 ### 🐧 Linux & Networking
 
