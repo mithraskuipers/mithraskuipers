@@ -46,11 +46,12 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [VideoInputMonitor](https://github.com/mithraskuipers/VideoInputMonitor) | Webcam preview and diagnostics. |
 
 ### 📚 Educational
-| Repository | Description |
-|:-----------|:------------|
-| [raycasting](https://github.com/mithraskuipers/raycasting) | Interactive raycasting tutorial. |
-| [reinforcement_learning](https://github.com/mithraskuipers/reinforcement_learning) | Interactive RL tutorial. |
-| [cobol-notes](https://github.com/mithraskuipers/cobol-notes) | COBOL programming notes, including security risks and SQL injection. |
+| Repository | Description | Live Demo |
+|:-----------|:------------|:---------:|
+| [raycasting](https://github.com/mithraskuipers/raycasting) | Interactive raycasting tutorial. | [🌐 Demo](http://github.mithraskuipers.io/raycasting) |
+| [raytracing](https://github.com/mithraskuipers/raytracing) | Interactive ray tracing tutorial. | [🌐 Demo](http://github.mithraskuipers.io/raytracing) |
+| [reinforcement_learning](https://github.com/mithraskuipers/reinforcement_learning) | Interactive RL tutorial. | [🌐 Demo](http://github.mithraskuipers.io/reinforcement_learning) |
+| [cobol-notes](https://github.com/mithraskuipers/cobol-notes) | COBOL programming notes, including security risks and SQL injection. | [🌐 Demo](http://github.mithraskuipers.io/cobol-notes) |
 
 ### 🧩 Chrome Extensions
 
