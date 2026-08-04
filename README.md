@@ -48,10 +48,10 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 ### 📚 Educational
 | Repository | Description | Live Demo |
 |:-----------|:------------|:---------:|
-| [raycasting](https://github.com/mithraskuipers/raycasting) | Interactive raycasting tutorial. | [🌐 Demo](http://github.mithraskuipers.io/raycasting) |
-| [raytracing](https://github.com/mithraskuipers/raytracing) | Interactive ray tracing tutorial. | [🌐 Demo](http://github.mithraskuipers.io/raytracing) |
-| [reinforcement_learning](https://github.com/mithraskuipers/reinforcement_learning) | Interactive RL tutorial. | [🌐 Demo](http://github.mithraskuipers.io/reinforcement_learning) |
-| [cobol-notes](https://github.com/mithraskuipers/cobol-notes) | COBOL programming notes, including security risks and SQL injection. | [🌐 Demo](http://github.mithraskuipers.io/cobol-notes) |
+| [raycasting](https://github.com/mithraskuipers/raycasting) | Interactive raycasting tutorial. | [🌐 Demo](https://mithraskuipers.github.io/raycasting/) |
+| [raytracing](https://github.com/mithraskuipers/raytracing) | Interactive ray tracing tutorial. | [🌐 Demo](https://mithraskuipers.github.io/raytracing/) |
+| [reinforcement_learning](https://github.com/mithraskuipers/reinforcement_learning) | Interactive RL tutorial. | [🌐 Demo](https://mithraskuipers.github.io/reinforcement_learning/) |
+| [cobol-notes](https://github.com/mithraskuipers/cobol-notes) | COBOL programming notes, including security risks and SQL injection. | N/A |
 
 ### 🧩 Chrome Extensions
 
