@@ -39,19 +39,24 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 
 ### 🌐 Browser Applications
 
-| Repository | Description |
-|:-----------|:------------|
-| [DocCombiner](https://github.com/mithraskuipers/DocCombiner) | Combine PDFs, DOCX, TXT and Markdown. |
-| [DocSplitter](https://github.com/mithraskuipers/DocSplitter) | Split documents locally. |
-| [VideoInputMonitor](https://github.com/mithraskuipers/VideoInputMonitor) | Webcam preview and diagnostics. |
-
-### 📚 Educational
 | Repository | Description | Live Demo |
 |:-----------|:------------|:---------:|
-| [raycasting](https://github.com/mithraskuipers/raycasting) | Interactive raycasting tutorial. | [🌐 Demo](https://mithraskuipers.github.io/raycasting/) |
-| [raytracing](https://github.com/mithraskuipers/raytracing) | Interactive ray tracing tutorial. | [🌐 Demo](https://mithraskuipers.github.io/raytracing/) |
-| [reinforcement_learning](https://github.com/mithraskuipers/reinforcement_learning) | Interactive RL tutorial. | [🌐 Demo](https://mithraskuipers.github.io/reinforcement_learning/) |
+| [DocCombiner](https://github.com/mithraskuipers/DocCombiner) | Combine PDFs, DOCX, TXT and Markdown. | - |
+| [DocSplitter](https://github.com/mithraskuipers/DocSplitter) | Split documents locally. | - |
+| [VideoInputMonitor](https://github.com/mithraskuipers/VideoInputMonitor) | Webcam preview and diagnostics. | - |
+| [Pokémon Cards Binder](https://github.com/mithraskuipers/PokemonCardBinder) | - | [🌐 Live](https://mithraskuipers.github.io/PokemonCardBinder) |
+| [Verlof Planner](https://github.com/mithraskuipers/VerlofPlanner) | - | [🌐 Live](https://github.com/mithraskuipers/VerlofPlanner) |
+
+### 📚 Educational
+
+| Repository | Description | Live Demo |
+|:-----------|:------------|:---------:|
+| [raycasting](https://github.com/mithraskuipers/raycasting) | Interactive raycasting tutorial. | [🌐 Live](https://mithraskuipers.github.io/raycasting/) |
+| [raytracing](https://github.com/mithraskuipers/raytracing) | Interactive ray tracing tutorial. | [🌐 Live](https://mithraskuipers.github.io/raytracing/) |
+| [Interactive Learning: Reinforcement Learning](https://github.com/mithraskuipers/InteractiveLearning-MontyHall) | Interactive RL tutorial. | [🌐 Live](https://mithraskuipers.github.io/InteractiveLearning-MontyHall/) |
 | [cobol-notes](https://github.com/mithraskuipers/cobol-notes) | COBOL programming notes, including security risks and SQL injection. | N/A |
+| [Interactive Learning: Monty Hall](https://github.com/mithraskuipers/InteractiveLearning-MontyHall) | Interactive explanation of the Monty Hall problem. | [🌐 Live](https://mithraskuipers.github.io/InteractiveLearning-MontyHall) |
+
 
 ### 🧩 Chrome Extensions
 
