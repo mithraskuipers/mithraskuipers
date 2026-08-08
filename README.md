@@ -45,7 +45,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [DocSplitter](https://github.com/mithraskuipers/DocSplitter) | Split documents locally. | - |
 | [VideoInputMonitor](https://github.com/mithraskuipers/VideoInputMonitor) | Webcam preview and diagnostics. | - |
 | [Pokémon Cards Binder](https://github.com/mithraskuipers/PokemonCardBinder) | - | [🌐 Live](https://mithraskuipers.github.io/PokemonCardBinder) |
-| [Verlof Planner](https://github.com/mithraskuipers/VerlofPlanner) | - | [🌐 Live](https://github.com/mithraskuipers/VerlofPlanner) |
+| [Verlof Planner](https://github.com/mithraskuipers/VerlofPlanner) | - | [🌐 Live](https://mithraskuipers.github.io/VerlofPlanner) |
 
 ### 📚 Educational
 
