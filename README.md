@@ -88,10 +88,8 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [usb-wifi-diagnostics](https://github.com/mithraskuipers/usb-wifi-diagnostics) | USB Wi-Fi troubleshooting toolkit. | - |
 | [pi-gpio-lcd-toolkit](https://github.com/mithraskuipers/pi-gpio-lcd-toolkit) | Raspberry Pi LCD toolkit. | - |
 | [EasyFT](https://github.com/mithraskuipers/EasyFT) | Linux file transfer utility. | - |
-| [Wifi-SiteSurvey-Pi](https://github.com/mithraskuipers/wifi-sitesurvey-pi
-) | Portable Wi-Fi site survey tool for Raspberry Pi. | - |
-| [Usb2Wifi-Printer](https://github.com/mithraskuipers/usb2wifi-printer) | Share a USB printer over Wi-Fi from a Raspberry Pi, plus a web app to print from any device on the LAN
- | - |
+| [Wifi-SiteSurvey-Pi](https://github.com/mithraskuipers/wifi-sitesurvey-pi) | Portable Wi-Fi site survey tool for Raspberry Pi. | - |
+| [Usb2Wifi-Printer](https://github.com/mithraskuipers/usb2wifi-printer) | Share a USB printer over Wi-Fi from a Raspberry Pi, plus a web app to print from any device on the LAN | - |
 
  ### 🔎 Research & Data Mining
 
