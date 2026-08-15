@@ -1,4 +1,3 @@
-
 # Hi, I'm Mithras! 👋🖥️🚀
 
 <p>
@@ -44,6 +43,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [DocCombiner](https://github.com/mithraskuipers/DocCombiner) | Combine PDFs, DOCX, TXT and Markdown. | - |
 | [DocSplitter](https://github.com/mithraskuipers/DocSplitter) | Split documents locally. | - |
 | [VideoInputMonitor](https://github.com/mithraskuipers/VideoInputMonitor) | Webcam preview and diagnostics. | - |
+| [Trailmarks](https://github.com/mithraskuipers/Trailmarks) | Turn a folder of geotagged photos/videos into an interactive trail map with waypoints, distance stats, thumbnails, and a lightbox viewer — all client-side, no upload or backend. | - |
 | [Pokémon Cards Binder](https://github.com/mithraskuipers/PokemonCardBinder) | - | [🌐 Live](https://mithraskuipers.github.io/PokemonCardBinder) |
 | [Verlof Planner](https://github.com/mithraskuipers/VerlofPlanner) | - | [🌐 Live](https://mithraskuipers.github.io/VerlofPlanner) |
 
@@ -80,6 +80,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [PSScreenshotTool](https://github.com/mithraskuipers/PSScreenshotTool) | Tray application for timed screenshots. |
 | [PSImgStitcher](https://github.com/mithraskuipers/PSImgStitcher) | Screenshot stitching utility. |
 | [PSEasyFT](https://github.com/mithraskuipers/PSEasyFT) | Windows file transfer utility. |
+| [PSDocInspector](https://github.com/mithraskuipers/PSDocInspector) | Local Windows keyword-search tool across folders of Office docs, PDFs, and text files, with a browser UI and built-in OCR for scanned PDFs. |
 
 ### 🐧 Linux & Networking
 
