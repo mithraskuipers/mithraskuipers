@@ -55,6 +55,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [Interactive Learning: Raytracing](https://github.com/mithraskuipers/InteractiveLearning-Raytracing) | Interactive ray tracing tutorial. | [🌐 Live](https://mithraskuipers.github.io/InteractiveLearning-Raytracing/) |
 | [Interactive Learning: Reinforcement Learning](https://github.com/mithraskuipers/InteractiveLearning-MontyHall) | Interactive RL tutorial. | [🌐 Live](https://mithraskuipers.github.io/InteractiveLearning-MontyHall/) |
 | [Interactive Learning: Monty Hall](https://github.com/mithraskuipers/InteractiveLearning-MontyHall) | Interactive explanation of the Monty Hall problem. | [🌐 Live](https://mithraskuipers.github.io/InteractiveLearning-MontyHall) |
+| [Interactive Learning: Morse Code](https://github.com/mithraskuipers/InteractiveLearning-MorseCode) | Learn to read and send Morse code in your browser. Koch method training, a working telegraph key, and a text ⇄ Morse translator. | [🌐 Live](https://mithraskuipers.github.io/InteractiveLearning-MorseCode) |
 | [cobol-notes](https://github.com/mithraskuipers/cobol-notes) | COBOL programming notes, including security risks and SQL injection. | N/A |
 
 ### 🧩 Chrome Extensions
