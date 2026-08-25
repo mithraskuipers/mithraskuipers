@@ -43,7 +43,8 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [DocCombiner](https://github.com/mithraskuipers/DocCombiner) | Combine PDFs, DOCX, TXT and Markdown. | - |
 | [DocSplitter](https://github.com/mithraskuipers/DocSplitter) | Split documents locally. | - |
 | [VideoInputMonitor](https://github.com/mithraskuipers/VideoInputMonitor) | Webcam preview and diagnostics. | - |
-| [Trailmarks](https://github.com/mithraskuipers/Trailmarks) | Turn a folder of geotagged photos/videos into an interactive trail map with waypoints, distance stats, thumbnails, and a lightbox viewer — all client-side, no upload or backend. | - |
+| [Trailmarks](https://github.com/mithraskuipers/Trailmarks) | Turn a folder of geotagged photos/videos into an interactive trail map with waypoints, distance stats, thumbnails, and a lightbox viewer, all client-side, no upload or backend. | - |
+| [ObsidianVaultImageOrganizer](https://github.com/mithraskuipers/ObsidianVaultImageOrganizer) | Audit, repair, consolidate, and clean up image references in an Obsidian vault, entirely client-side using the File System Access API, no plugin or upload required. | - |
 | [Pokémon Cards Binder](https://github.com/mithraskuipers/PokemonCardBinder) | - | [🌐 Live](https://mithraskuipers.github.io/PokemonCardBinder) |
 | [Verlof Planner](https://github.com/mithraskuipers/VerlofPlanner) | - | [🌐 Live](https://mithraskuipers.github.io/VerlofPlanner) |
 
