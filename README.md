@@ -35,6 +35,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [VideoReviewTool](https://github.com/mithraskuipers/VideoReviewTool) | Quickly review large video collections. | - |
 | [RetroTV](https://github.com/mithraskuipers/RetroTV) | Self-hosted TV channel simulator. | - |
 | [SoundRelay](https://github.com/mithraskuipers/SoundRelay) | Stream synchronized audio to phones. | - |
+| [yt-dlp-downloader](https://github.com/mithraskuipers/yt-dlp-downloader) | Local web dashboard for bulk-downloading videos from a list of URLs with yt-dlp. Paste links, pick a folder, and watch parallel downloads with live progress and automatic retries. | - |
 
 ### 🌐 Browser Applications
 
