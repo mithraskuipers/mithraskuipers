@@ -83,6 +83,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [PSImgStitcher](https://github.com/mithraskuipers/PSImgStitcher) | Screenshot stitching utility. |
 | [PSEasyFT](https://github.com/mithraskuipers/PSEasyFT) | Windows file transfer utility. |
 | [PSDocInspector](https://github.com/mithraskuipers/PSDocInspector) | Local Windows keyword-search tool across folders of Office docs, PDFs, and text files, with a browser UI and built-in OCR for scanned PDFs. |
+| [wsl-backup-restore](https://github.com/mithraskuipers/wsl-backup-restore) | Interactive PowerShell scripts to easily back up and restore WSL distributions on Windows. |
 
 ### 🐧 Linux & Networking
 
