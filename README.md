@@ -48,6 +48,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [ObsidianVaultImageOrganizer](https://github.com/mithraskuipers/ObsidianVaultImageOrganizer) | Audit, repair, consolidate, and clean up image references in an Obsidian vault, entirely client-side using the File System Access API, no plugin or upload required. | [🌐 Live](https://mithraskuipers.github.io/ObsidianVaultImageOrganizer) |
 | [Pokémon Cards Binder](https://github.com/mithraskuipers/PokemonCardBinder) | - | [🌐 Live](https://mithraskuipers.github.io/PokemonCardBinder) |
 | [Verlof Planner](https://github.com/mithraskuipers/VerlofPlanner) | - | [🌐 Live](https://mithraskuipers.github.io/VerlofPlanner) |
+| [Waypoint](https://github.com/mithraskuipers/Waypoint) | - | [🌐 Live](http://mithraskuipers.github.io/Waypoint)
 
 ### 📚 Educational
 
