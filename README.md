@@ -32,7 +32,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [EasyMask](https://github.com/mithraskuipers/EasyMask) | Convert MP4s into transparent GIFs. | - |
 | [PyImgStitcher](https://github.com/mithraskuipers/PyImgStitcher) | Merge scrolling screenshots. | - |
 | [PSImgStitcher](https://github.com/mithraskuipers/PSImgStitcher) | PowerShell image stitcher. | - |
-| [VideoReviewTool](https://github.com/mithraskuipers/VideoReviewTool) | Quickly review large video collections. | - |
+| [VideoReviewTool](https://github.com/mithraskuipers/VideoReviewTool) | A local Flask app that builds a snapshot slideshow for each video in a folder so you can quickly delete, keep, or sort large batches with single keypresses. | - |
 | [RetroTV](https://github.com/mithraskuipers/RetroTV) | Self-hosted TV channel simulator. | - |
 | [SoundRelay](https://github.com/mithraskuipers/SoundRelay) | Stream synchronized audio to phones. | - |
 | [yt-dlp-downloader](https://github.com/mithraskuipers/yt-dlp-downloader) | Local web dashboard for bulk-downloading videos from a list of URLs with yt-dlp. Paste links, pick a folder, and watch parallel downloads with live progress and automatic retries. | - |
@@ -44,7 +44,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [DocCombiner](https://github.com/mithraskuipers/DocCombiner) | Combine PDFs, DOCX, TXT and Markdown. | - |
 | [DocSplitter](https://github.com/mithraskuipers/DocSplitter) | Split documents locally. | - |
 | [VideoInputMonitor](https://github.com/mithraskuipers/VideoInputMonitor) | Webcam preview and diagnostics. | - |
-| [Trailmarks](https://github.com/mithraskuipers/Trailmarks) | Turn a folder of geotagged photos/videos into an interactive trail map with waypoints, distance stats, thumbnails, and a lightbox viewer, all client-side, no upload or backend. | - |
+| [Trailmarks](https://github.com/mithraskuipers/Trailmarks) | Turn a folder of geotagged photos/videos into an interactive trail map. Trailmarks reads EXIF GPS data client-side and plots waypoints on a topo map with distance stats, thumbnails, and a lightbox viewer. No upload, no backend. | - |
 | [ObsidianVaultImageOrganizer](https://github.com/mithraskuipers/ObsidianVaultImageOrganizer) | Audit, repair, consolidate, and clean up image references in an Obsidian vault, entirely client-side using the File System Access API, no plugin or upload required. | [🌐 Live](https://mithraskuipers.github.io/ObsidianVaultImageOrganizer) |
 | [Pokémon Cards Binder](https://github.com/mithraskuipers/PokemonCardBinder) | - | [🌐 Live](https://mithraskuipers.github.io/PokemonCardBinder) |
 | [Verlof Planner](https://github.com/mithraskuipers/VerlofPlanner) | - | [🌐 Live](https://mithraskuipers.github.io/VerlofPlanner) |
@@ -74,7 +74,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 |:-----------|:------------|:---------:|
 | [PySecureFS](https://github.com/mithraskuipers/PySecureFS) | Secure local file server. | - |
 | [PiNetAP](https://github.com/mithraskuipers/PiNetAP) | Raspberry Pi access point manager. | - |
-| [tiktok-live-downloader](https://github.com/mithraskuipers/tiktok-live-downloader) | Automatically record TikTok livestreams. | - |
+| [tiktok-live-downloader](https://github.com/mithraskuipers/tiktok-live-downloader) | A password protected Flask dashboard that watches TikTok usernames and automatically records their livestreams the moment they go live. | - |
 | [python_datascience_tools](https://github.com/mithraskuipers/python_datascience_tools) | Data science utilities. | - |
 
 ### 💙 PowerShell
@@ -86,6 +86,8 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [PSEasyFT](https://github.com/mithraskuipers/PSEasyFT) | Windows file transfer utility. | - |
 | [PSDocInspector](https://github.com/mithraskuipers/PSDocInspector) | Local Windows keyword-search tool across folders of Office docs, PDFs, and text files, with a browser UI and built-in OCR for scanned PDFs. | - |
 | [wsl-backup-restore](https://github.com/mithraskuipers/wsl-backup-restore) | Interactive PowerShell scripts to easily back up and restore WSL distributions on Windows. | - |
+| [PSKeyMapper](https://github.com/mithraskuipers/PSKeyMapper) | Remap keys to other keys and key combinations. | - |
+| [F13-F24](https://github.com/mithraskuipers/F13-F24) | Create keybindings using F13-F24 keys, useful for old mainframe systems. | - |
 
 ### 🐧 Linux & Networking
 
@@ -94,8 +96,9 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [usb-wifi-diagnostics](https://github.com/mithraskuipers/usb-wifi-diagnostics) | USB Wi-Fi troubleshooting toolkit. | - |
 | [pi-gpio-lcd-toolkit](https://github.com/mithraskuipers/pi-gpio-lcd-toolkit) | Raspberry Pi LCD toolkit. | - |
 | [EasyFT](https://github.com/mithraskuipers/EasyFT) | Linux file transfer utility. | - |
-| [Wifi-SiteSurvey-Pi](https://github.com/mithraskuipers/wifi-sitesurvey-pi) | Portable Wi-Fi site survey tool for Raspberry Pi. | - |
+| [Wifi-SiteSurvey-Pi](https://github.com/mithraskuipers/wifi-sitesurvey-pi) | Portable Wi-Fi site survey tool for Raspberry Pi. Carry the Pi and a USB dongle around your house while watching live signal strength and channel data on your phone, so you can find dead zones and pick the best AP spot as you walk. | - |
 | [Usb2Wifi-Printer](https://github.com/mithraskuipers/usb2wifi-printer) | Share a USB printer over Wi-Fi from a Raspberry Pi, plus a web app to print from any device on the LAN | - |
+| [fstab-manager](https://github.com/mithraskuipers/fstab-manager) | Interactive Bash TUI for Debian/Linux to safely add and remove external hard drives in /etc/fstab. Auto-detects connected drives, mounts them under /mnt/ by UUID, and always uses nofail/x-systemd.automount so your system still boots if a drive is unplugged. | - |
 
 ### 🔎 Research & Data Mining
 
