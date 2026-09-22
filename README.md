@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm an Offensive Security Consultant with experience in software engineering and artificial intelligence. My projects range from penetration testing utilities and networking tools to AI-powered applications, desktop software, and browser-based utilities, with an emphasis on local-first, privacy-friendly design.
+I'm an Offensive Security Consultant with experience in software engineering and artificial intelligence. My projects range from penetration testing utilities and networking tools to AI-powered applications, desktop software, and browser-based utilities. A significant part of my work also involves developing small hobby projects and tasks for friends and family, all with a strong emphasis on local-first, privacy-friendly design.
 
 Many of my projects run entirely on your own machine without requiring cloud services or external APIs.
 
