@@ -48,7 +48,8 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [ObsidianVaultImageOrganizer](https://github.com/mithraskuipers/ObsidianVaultImageOrganizer) | Audit, repair, consolidate, and clean up image references in an Obsidian vault, entirely client-side using the File System Access API, no plugin or upload required. | [🌐 Live](https://mithraskuipers.github.io/ObsidianVaultImageOrganizer) |
 | [Pokémon Cards Binder](https://github.com/mithraskuipers/PokemonCardBinder) | - | [🌐 Live](https://mithraskuipers.github.io/PokemonCardBinder) |
 | [Verlof Planner](https://github.com/mithraskuipers/VerlofPlanner) | - | [🌐 Live](https://mithraskuipers.github.io/VerlofPlanner) |
-| [Waypoint](https://github.com/mithraskuipers/Waypoint) | - | [🌐 Live](http://mithraskuipers.github.io/Waypoint)
+| [Waypoint](https://github.com/mithraskuipers/Waypoint) | - | [🌐 Live](http://mithraskuipers.github.io/Waypoint) |
+| [NinDeals](https://github.com/mithraskuipers/NinDeals) | Static web app that scans the Nintendo eShop catalog and shows the biggest discounts, filterable by console, price and discount percentage. No backend required. | [🌐 Live](https://mithraskuipers.github.io/NinDeals) |
 
 ### 📚 Educational
 
@@ -67,6 +68,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 |:-----------|:------------|:---------:|
 | [SelectiveHistory](https://github.com/mithraskuipers/SelectiveHistory) | Automatically remove browsing history for selected sites. | - |
 | [IPInsight](https://github.com/mithraskuipers/IPInsight) | Display your current IP address. | - |
+| [websec-auditor](https://github.com/mithraskuipers/websec-auditor) | Chrome extension for pentesters. Checks security headers, cookie hijack risk, TLS and certificate info, and page level issues, with clear filtering. | - |
 
 ### 🐍 Python
 
@@ -99,6 +101,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [Wifi-SiteSurvey-Pi](https://github.com/mithraskuipers/wifi-sitesurvey-pi) | Portable Wi-Fi site survey tool for Raspberry Pi. Carry the Pi and a USB dongle around your house while watching live signal strength and channel data on your phone, so you can find dead zones and pick the best AP spot as you walk. | - |
 | [Usb2Wifi-Printer](https://github.com/mithraskuipers/usb2wifi-printer) | Share a USB printer over Wi-Fi from a Raspberry Pi, plus a web app to print from any device on the LAN | - |
 | [fstab-manager](https://github.com/mithraskuipers/fstab-manager) | Interactive Bash TUI for Debian/Linux to safely add and remove external hard drives in /etc/fstab. Auto-detects connected drives, mounts them under /mnt/ by UUID, and always uses nofail/x-systemd.automount so your system still boots if a drive is unplugged. | - |
+| [fcopy](https://github.com/mithraskuipers/fcopy) | Self-hosted file copy and move daemon with a web UI, built to keep transfers running after you close the tab or reboot. | - |
 
 ### 🔎 Research & Data Mining
 
