@@ -68,7 +68,7 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 |:-----------|:------------|:---------:|
 | [SelectiveHistory](https://github.com/mithraskuipers/SelectiveHistory) | Automatically remove browsing history for selected sites. | - |
 | [IPInsight](https://github.com/mithraskuipers/IPInsight) | Display your current IP address. | - |
-| [websec-auditor](https://github.com/mithraskuipers/websec-auditor) | Chrome extension for pentesters. Checks security headers, cookie hijack risk, TLS and certificate info, and page level issues, with clear filtering. | - |
+| [websec-auditor](https://github.com/mithraskuipers/websec-auditor-chrome-ext) | Chrome extension for pentesters. Checks security headers, cookie hijack risk, TLS and certificate info, and page level issues, with clear filtering. | - |
 
 ### 🐍 Python
 
