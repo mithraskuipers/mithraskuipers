@@ -62,13 +62,15 @@ Many of my projects run entirely on your own machine without requiring cloud ser
 | [Interactive Learning: Morse Code](https://github.com/mithraskuipers/InteractiveLearning-MorseCode) | Learn to read and send Morse code in your browser. Koch method training, a working telegraph key, and a text ⇄ Morse translator. | [🌐 Live](https://mithraskuipers.github.io/InteractiveLearning-MorseCode) |
 | [cobol-notes](https://github.com/mithraskuipers/cobol-notes) | COBOL programming notes, including security risks and SQL injection. | N/A |
 
-### 🧩 Chrome Extensions
+### 🧩 Browser Extensions
 
 | Repository | Description | Live Demo |
 |:-----------|:------------|:---------:|
 | [SelectiveHistory](https://github.com/mithraskuipers/SelectiveHistory) | Automatically remove browsing history for selected sites. | - |
 | [IPInsight](https://github.com/mithraskuipers/IPInsight) | Display your current IP address. | - |
 | [websec-auditor](https://github.com/mithraskuipers/websec-auditor-chrome-ext) | Chrome extension for pentesters. Checks security headers, cookie hijack risk, TLS and certificate info, and page level issues, with clear filtering. | - |
+| [websec-auditor-chrome-ext]([https://github.com/mithraskuipers/websec-auditor-chrome-ext](https://github.com/mithraskuipers/tampermonkey-amazon-marketplace-offers)) | Chrome extension for pentesters. Checks security headers, cookie hijack risk, TLS and certificate info, and page level issues, with clear filtering. | - |
+
 
 ### 🐍 Python
 
