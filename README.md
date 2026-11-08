@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=mithraskuipers&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 ## About Me
 
 I'm an Offensive Security Consultant with experience in software engineering and artificial intelligence. My projects range from penetration testing utilities and networking tools to AI-powered applications, desktop software, and browser-based utilities. A significant part of my work also involves developing small hobby projects and tasks for friends and family, all with a strong emphasis on local-first, privacy-friendly design.
